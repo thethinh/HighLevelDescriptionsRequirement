@@ -5,7 +5,7 @@
 3, lên facebook group chat để biết mình làm usecases nào nhé
 
 4, Mọi người mô tả theo chương trình này nhé , clone về r chạy lên, nhớ add dữ 
-liệu vào SQL nhé.
+liệu vào SQL nếu muốn xem kết quả, còn không thì thao tác vẫn được
 link repo git : https://github.com/thethinh/TeacherManager.git
 
 5, Làm xong, commit ra nhánh của mình và pull request lên giúp tôi với nhé, 
